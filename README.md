@@ -23,6 +23,14 @@ $ mkdir tmp
   -> add app/templates/index.html
   -> modify app/views.py
 
+# WEB form
+#### Flask-WTF (WTForms)
+  -> add config.py
+  -> modify app/__init__.py
+  -> add app/forms.py
+  -> add app/templates/login.html
+  -> modify app/views.py
+  -> add app/templates/base.html
  
 
 
