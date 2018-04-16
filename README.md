@@ -14,10 +14,14 @@ $ mkdir app
 $ mkdir app/static
 $ mkdir app/templates
 $ mkdir tmp
--> add 
+  -> add 
 	app/__init__.py
 	app/views.py
 	run.py
+
+# Template
+  -> add app/templates/index.html
+  -> modify app/views.py
 
  
 
